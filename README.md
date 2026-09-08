@@ -1,56 +1,87 @@
-<div align="left">
+<div align="center">
 
-# Poorvi
+<br>
 
-**Product Engineer** &bull; Full-Stack &amp; Agentic AI Systems
+<samp>
 
-Turning complex problems into focused, reliable products. I build from the ground up&mdash;moving fluidly between product design, distributed backends, mobile interfaces, and AI orchestration.
+**Poorvi** · Product Engineer
+
+[work](https://github.com/raindotdev?tab=repositories) · [linkedin](https://linkedin.com/in/raindotdev) · [x](https://twitter.com/raindotdev) · [mail](mailto:contact@raindotdev.com)
+
+</samp>
+
+<br>
+
+</div>
+
+I build software products from zero to production — backend systems, mobile apps, AI agents, and everything in between. I care about architecture that stays simple as it scales, interfaces that feel inevitable, and shipping things people actually use.
 
 ```
-Idea  ──▶  Architecture  ──▶  Ship  ──▶  Scale  ──▶  Refine
+idea → architecture → ship → learn → refine
 ```
 
----
+<br>
 
-### Principles
+<table>
+<tr><td>
 
-- **End-to-End Craft** &mdash; Owning the complete loop from user experience down to database schemas and deployment pipelines.
-- **Simplicity by Design** &mdash; Keeping architectures lean, interfaces uncluttered, and code maintainable.
-- **Pragmatic AI** &mdash; Treating AI models and agentic workflows as functional primitives to solve tangible user needs, not as gimmicks.
-- **High-Velocity Shipping** &mdash; Building focused MVPs, validating in production, and iterating rapidly on real telemetry.
+**craft**
 
----
+I work across the full stack with a bias toward product. Most of what I build ships as production systems — APIs, mobile apps, agentic workflows, and internal tools. I treat AI as a practical engineering primitive, not a buzzword.
 
-### Stack &amp; Craft
+</td></tr>
+</table>
 
-A focused collection of tools and technologies I use to build production software:
+<br>
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Languages** | Python, TypeScript, JavaScript, SQL |
-| **Frontend &amp; Mobile** | React, React Native, Next.js, Modern CSS |
-| **Backend &amp; APIs** | FastAPI, Node.js, Express / Fastify, REST Architecture |
-| **Data &amp; Cloud** | PostgreSQL, Firebase, Redis, Docker, Linux |
-| **AI &amp; Intelligence** | Agentic Workflows, LLM APIs, Ollama (Local LLMs), RAG |
-| **Payments &amp; Tools** | Razorpay, Git, GitHub Actions, Postman |
+<details>
+<summary><b>stack</b></summary>
 
----
+<br>
 
-### Currently
+```
+languages        python · typescript · javascript · sql
+frontend         react · react native · next.js
+backend          fastapi · node.js · express · fastify
+data             postgresql · firebase · redis
+ai               llm apis · ollama · langchain · rag · agentic workflows
+infrastructure   docker · linux · git · github actions
+integrations     razorpay · third-party apis · webhooks
+```
 
-- 🔨 Architecting agentic systems with local LLMs and structured tool execution.
-- 📱 Engineering cross-platform mobile apps in React Native with real-time cloud sync.
-- 📚 Deepening knowledge in Kubernetes, Terraform, and advanced multi-agent graphs.
+</details>
 
----
+<details>
+<summary><b>now</b></summary>
 
-### Connect
+<br>
 
-Feel free to reach out to collaborate on a product, discuss agentic architectures, or say hi:
+Building agentic systems with local LLMs and structured tool execution.
+Shipping cross-platform mobile apps in React Native with real-time sync.
+Going deeper on Kubernetes, Terraform, and multi-agent orchestration.
 
-[Twitter / X](https://twitter.com/raindotdev) &nbsp;&bull;&nbsp; 
-[LinkedIn](https://linkedin.com/in/raindotdev) &nbsp;&bull;&nbsp; 
-[Email](mailto:contact@raindotdev.com) &nbsp;&bull;&nbsp; 
-[GitHub](https://github.com/raindotdev)
+</details>
+
+<details>
+<summary><b>principles</b></summary>
+
+<br>
+
+Ship first, polish in production.
+Own the full loop — from user experience to database schema.
+Keep architectures lean enough that one person can reason about them.
+Use AI where it solves a real problem. Skip it where it doesn't.
+
+</details>
+
+<br>
+
+<div align="center">
+
+<samp>
+
+building things that work · [raindotdev](https://github.com/raindotdev)
+
+</samp>
 
 </div>
