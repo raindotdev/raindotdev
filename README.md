@@ -4,9 +4,9 @@
 
 <samp>
 
-**Poorvi** · Product Engineer
+**Shashi** · Product Engineer
 
-[work](https://github.com/raindotdev?tab=repositories) · [linkedin](https://linkedin.com/in/raindotdev) · [x](https://twitter.com/raindotdev) · [mail](mailto:contact@raindotdev.com)
+[work](https://github.com/raindotdev?tab=repositories) · [linkedin](https://linkedin.com/in/kysez) · [x](https://twitter.com/shxsh1tf) · [mail](mailto:singhsahl2131@gmail.com)
 
 </samp>
 
